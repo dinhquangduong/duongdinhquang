@@ -669,6 +669,7 @@ banner
 .inner-content{
   width: 500px;
   color: #000;
+  
 }
 
 .inner-content h6 li{
@@ -946,6 +947,12 @@ about
   border-radius: 20px;
 }
 
+.anhdaidien{
+  width: 50%;
+  margin-left: 100px;
+  border-radius: 50%;
+}
+
 .tyle .tienganh{
   margin: 15px;
 }
@@ -993,8 +1000,8 @@ menu
 
 
 .logocv{
-  height: 60px;
-  width: 150px;
+  height: 40px;
+  width: 100px;
   margin-left:58px;
 }
 
